@@ -1,0 +1,7 @@
+/* style dashicons tick in Viewed column of Invoices page */
+td.log.column-log {
+	color: green;
+	font-family: 'dashicons';
+	text-align: center;
+	font-size: 24px;
+}
